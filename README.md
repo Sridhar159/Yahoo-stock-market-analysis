@@ -19,7 +19,7 @@ Created a heatmap to visualize the correlation matrix.
 Calculated and visualized the risk vs. return for each stock.
 Determined the value at risk (VaR) by investing in each stock.
 
-**Neural Network for Stock Price Prediction (MSFT):**
+**Neural Network for Stock Price Prediction:**
 Fetched historical stock data for Microsoft to predict the closing price.
 Preprocessed the data and created a training dataset.
 Used a neural network with LSTM layers to build the predictive model.
